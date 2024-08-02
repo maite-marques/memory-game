@@ -6,5 +6,5 @@
 - Depois de 2 cartas selecionadas, todas ficam desabilitadas.
 - Validar se são iguais.
   - Se sim: Somar 1 ponto, e desabilitar estas duas cartas.
-  - Se não: Somar 1 tentativa, e virar as duas cartas para baixo.
+  - Se não: Somar 1 erro, e virar as duas cartas para baixo.
 - Voltar a habilitar as cartas restantes.
